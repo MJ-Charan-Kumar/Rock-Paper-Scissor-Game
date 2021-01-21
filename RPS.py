@@ -4,7 +4,7 @@ import re
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
-while (1 < 2):
+while True:
     print("\n")
     print("Rock, Paper, Scissors - Shoot!")
 
